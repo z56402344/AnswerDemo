@@ -6,6 +6,8 @@
 
 # Describe
 
+将TextView中需要填词的位置转换成Span，利用Span传递点击事件
+
 SpanController mSpc = new SpanController();
 
 mSpc.makeData(this,mTv,mStr);
