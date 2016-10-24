@@ -18,4 +18,19 @@ mSpc.makeData(this,mTv,mStr);
 ![Image][1]
 
 
+![Image][2]
+
+
+![Image][3]
+
+
+![Image][4]
+
+
 [1]: http://img.blog.csdn.net/20161024155229547
+
+[2]: https://github.com/z56402344/AnswerDemo/blob/master/1.png
+
+[2]: https://github.com/z56402344/AnswerDemo/blob/master/2.png
+
+[2]: https://github.com/z56402344/AnswerDemo/blob/master/3.png
