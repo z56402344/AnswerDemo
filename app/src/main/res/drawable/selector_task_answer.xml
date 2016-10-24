@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_enabled="false" android:drawable="@drawable/btn_rectangle_gray_e0e0e0"/>
+    <item android:state_pressed="true" android:drawable="@drawable/btn_rectangle_gray_ff7171"/>
+    <item android:drawable="@drawable/btn_rectangle_gray_b3b3b3"/>
+
+</selector>
