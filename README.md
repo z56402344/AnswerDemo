@@ -31,6 +31,6 @@ mSpc.makeData(this,mTv,mStr);
 
 [2]: https://github.com/z56402344/AnswerDemo/blob/master/1.png
 
-[2]: https://github.com/z56402344/AnswerDemo/blob/master/2.png
+[3]: https://github.com/z56402344/AnswerDemo/blob/master/2.png
 
-[2]: https://github.com/z56402344/AnswerDemo/blob/master/3.png
+[4]: https://github.com/z56402344/AnswerDemo/blob/master/3.png
