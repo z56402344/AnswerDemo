@@ -27,7 +27,7 @@ mSpc.makeData(this,mTv,mStr);
 ![Image][4]
 
 
-[1]: http://img.blog.csdn.net/20161024155229547
+[1]: https://github.com/z56402344/AnswerDemo/blob/master/gif.gif
 
 [2]: https://github.com/z56402344/AnswerDemo/blob/master/1.png
 
